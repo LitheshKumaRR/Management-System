@@ -1,0 +1,157 @@
+[
+    {
+        "id":"0",
+        "first_name": "Jhony",
+        "last_name": "singh",
+        "class":"9th std",
+        "Blood_group":"o+",
+        "Batch":"2022-2023",
+        "Email":"jhony@gmail.com"
+    },
+    {
+        "id":"1",
+        "first_name": "Sonia",
+        "last_name": "sharma",
+        "class":"9th std",
+        "Blood_group":"A+",
+        "Batch":"2022-2023",
+        "Email":"jhony@gmail.com"
+    },
+    {
+        "id":"2",
+        "first_name": "Rahul",
+        "last_name": "Kumar",
+        "class":"9th std",
+        "Blood_group":"B+",
+        "Batch":"2022-2023",
+        "Email":"jhony@gmail.com"
+    },
+    {
+        "id":"3",
+        "first_name": "Kiran",
+        "last_name": "Roy",
+        "class":"9th std",
+        "Blood_group":"o+",
+        "Batch":"2022-2023",
+        "Email":"jhony@gmail.com"
+    },
+    
+    {
+        "id":"4",
+        "first_name": "Vaishanvi",
+        "last_name": "Chaitanya",
+        "class":"9th std",
+        "Blood_group":"A+",
+        "Batch":"2022-2023",
+        "Email":"jhony@gmail.com"
+    },
+    {
+        "id":"5",
+        "first_name": "Lokesh",
+        "last_name": "Reddy",
+        "class":"9th std",
+        "Blood_group":"B+",
+        "Batch":"2022-2023",
+        "Email":"jhony@gmail.com"
+    },
+    {
+        "id":"6",
+        "first_name": "Bobby",
+        "last_name": "singh",
+        "class":"9th std",
+        "Blood_group":"o+",
+        "Batch":"2022-2023",
+        "Email":"jhony@gmail.com"
+    },
+    {
+        "id":"7",
+        "first_name": "Arjun",
+        "last_name": "Rao",
+        "class":"9th std",
+        "Blood_group":"A+",
+        "Batch":"2022-2023",
+        "Email":"jhony@gmail.com"
+    },
+    {
+        "id":"8",
+        "first_name": "Ahmed",
+        "last_name": "Khan",
+        "class":"9th std",
+        "Blood_group":"B+",
+        "Batch":"2022-2023",
+        "Email":"ahmed@gmail.com"
+    },
+    {
+        "id":"9",
+        "first_name": "Nagesh",
+        "last_name": "Rao",
+        "class":"9th std",
+        "Blood_group":"O+",
+        "Batch":"2022-2023",
+        "Email":"Naghesh@gmail.com"
+    },
+    {
+        "id":"10",
+        "first_name": "Supriya",
+        "last_name": "singh",
+        "class":"9th std",
+        "Blood_group":"A+",
+        "Batch":"2022-2023",
+        "Email":"supriya@gmail.com"
+    },
+    {
+        "id":"11",
+        "first_name": "Arun",
+        "last_name": "Kumar",
+        "class":"9th std",
+        "Blood_group":"A+",
+        "Batch":"2022-2023",
+        "Email":"arun@gmail.com"
+    },
+    {
+        "id":"12",
+        "first_name": "Shirish",
+        "last_name": "Kumar",
+        "class":"9th std",
+        "Blood_group":"B+",
+        "Batch":"2022-2023",
+        "Email":"Shirish@gmail.com"
+    },
+    {
+        "id":"13",
+        "first_name": "Rahul",
+        "last_name": "Shetty",
+        "class":"9th std",
+        "Blood_group":"A+",
+        "Batch":"2022-2023",
+        "Email":"rahul@gmail.com"
+    },
+    {
+        "id":"14",
+        "first_name": "Roopesh",
+        "last_name": "Kumar",
+        "class":"9th std",
+        "Blood_group":"A+",
+        "Batch":"2022-2023",
+        "Email":"Roopesh@gmail.com"
+    },
+    {
+        "id":"15",
+        "first_name": "Sneha",
+        "last_name": "Shetty",
+        "class":"9th std",
+        "Blood_group":"B+",
+        "Batch":"2022-2023",
+        "Email":"sneha@gmail.com"
+    },
+    {
+        "id":"16",
+        "first_name": "Micheal",
+        "last_name": "Jordan",
+        "class":"9th std",
+        "Blood_group":"A+",
+        "Batch":"2022-2023",
+        "Email":"michael@gmail.com"
+    }
+    
+]
